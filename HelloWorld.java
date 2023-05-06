@@ -1,4 +1,3 @@
-package root;
 
 public class HelloWorld {
 
